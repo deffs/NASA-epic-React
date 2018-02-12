@@ -9,7 +9,7 @@ Easy:
 Hard:
   1. Parsing the JSON for the photo url (where can you actually use variables? and what is the scope?)
   2. Dealing with bugs/general debugging
-  3. Ensuring compatability for various devices
+  3. Ensuring compatibility for various devices
   4. Understanding the different components of the system
   5. Navigation?
   6. Too much HTML (I like Storyboards)
@@ -27,5 +27,5 @@ How I Overcame Difficulties:
 What I Learned:
   1. Javascript is more confusing than I previously thought
   2. React is quite powerful, but has its limitations
-  3. How much I underappreciate Native iOS
-  4. I should take a React Native course to acutally understand what is going on in the code
+  3. How much I under appreciate Native iOS
+  4. I should take a React Native course to actually understand what is going on in the code
